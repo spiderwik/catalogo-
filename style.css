@@ -2,3 +2,8 @@ body{
     background-color: lightcoral;
     color: palevioletred;
 }
+
+header{
+border-bottom: solid 2px white;
+
+}
